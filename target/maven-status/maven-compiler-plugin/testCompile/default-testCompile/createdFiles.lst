@@ -1,0 +1,4 @@
+com\amazon\stepdefination\Stepdefinationss.class
+com\amazon\objectrepository\Steplogin.class
+com\amazon\resources\Functionlibrary.class
+com\amazon\stepdefination\Runner.class
